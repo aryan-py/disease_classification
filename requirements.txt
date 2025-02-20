@@ -1,0 +1,17 @@
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box ==6.0.2
+pyYAML
+tqdm  # for printing the progress bar
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+ -e . # setup.py will help me install src folder as my local package
